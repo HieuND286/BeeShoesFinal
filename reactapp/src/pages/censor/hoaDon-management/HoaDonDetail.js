@@ -1362,7 +1362,7 @@ const handlePrint = useReactToPrint({
 
             <h2 className=" my-5  py-2 col-md-10 " style={{ paddingLeft: 250 }}>
               {" "}
-              MI SHOES
+              BEESHOES
             </h2>
             <div className="col-md-3">
               <div className="ps-4">
