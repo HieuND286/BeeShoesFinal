@@ -11,7 +11,7 @@ import java.util.List;
 
 @Service
 public class SanPhamService {
-    //ok
+    //ok123
     @Autowired
     SanPhamRepository sanPhamRepository;
     public List<SanPham> getALL(){
